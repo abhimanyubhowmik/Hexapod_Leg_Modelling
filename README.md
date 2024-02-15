@@ -15,7 +15,7 @@ Group Members:
 
 
 <div align="center">
-<img src = "Images/Hexabot_Leg.png" width="100%">
+<img src = "Images/Hexabot_Leg.png" width="60%">
 <p>The Hexapod Leg</p>
 </div>
 
